@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\obj\Debug\AccountTransferTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\AccountTransferTest.dll
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\AccountTransferTest.pdb
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\AccountTransfer.dll
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\xunit.abstractions.dll
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\xunit.assert.dll
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\xunit.core.dll
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\AccountTransfer.pdb
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\xunit.abstractions.xml
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\xunit.assert.pdb
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\xunit.assert.xml
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\xunit.core.pdb
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\bin\Debug\xunit.core.xml
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\obj\Debug\AccountTransferTest.dll
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransferTest\obj\Debug\AccountTransferTest.pdb

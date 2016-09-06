@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransfer\bin\Debug\AccountTransfer.dll
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransfer\bin\Debug\AccountTransfer.pdb
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransfer\obj\Debug\AccountTransfer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransfer\obj\Debug\AccountTransfer.dll
+C:\Users\Administrator\Desktop\AccountTransfer\AccountTransfer\obj\Debug\AccountTransfer.pdb
